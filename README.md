@@ -1,10 +1,9 @@
-# trial
+# COMICVERSE
+`A comic book generator and a community for the comic lovers
+let deep dive into the world of storytelling`
 
-A new Flutter project.
 
 ## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 <table>
   <tr>
